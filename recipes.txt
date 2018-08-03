@@ -3,3 +3,5 @@ Welcome to food recipes
 
 Rice
 yam
+
+Chicken fry
