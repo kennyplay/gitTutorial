@@ -5,3 +5,6 @@ Rice
 yam
 
 Chicken fry
+
+Beans
+Pizza
